@@ -65,3 +65,4 @@
 !/LICENSE
 !.gitignore
 !.gitkeep
+!Makefile
